@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "teste",
+        "autor": "teste",
+        "paginas": 100,
+        "status": "disponível",
+        "cliente": null
+    },
+    {
+        "id": 2,
+        "nome": "teste2",
+        "autor": "teste2",
+        "paginas": 300,
+        "status": "disponível",
+        "cliente": null
+    }
+]
